@@ -45,7 +45,30 @@ A distributed system is a collection of independent computers that appears to us
 
 ---
 
+### Quando usar?
+
+ESCALA
+
+---
+
+### Vertical vs. Horizontal
+
+---
+
+### Caso de um moniolito
+
+- Compartilha memória ou disco
+- Session/Files(local
+
+---
+
+### Load Balancer
+
+---
+
 ### Muito mais que Micro Serviços
+
+(Falar de exemplos que o pessoal já sabe)
 
 ---
 
