@@ -89,7 +89,6 @@ Escala de de Sistema
 
 ![-](./Images/monolito-3.png){width=70%}
 
-
 ---
 
 #### Caso de um Moniolito - Como Escalar
@@ -126,6 +125,16 @@ Escala de de Sistema
 
 ---
 
+### API Gatway / Management
+
+![-](./Images/apiGatway.png){width=53%}
+
+---
+
+### API Gatway vs. Management
+
+---
+
 ### Microsserviços
 
 ---
@@ -145,10 +154,6 @@ Escala de de Sistema
 ### Distributed tracing
 
 ![-](https://miro.medium.com/max/1191/1*O4Kb0ToSpFXLxEF4xKPWXA.png)
-
----
-
-### API Gatway
 
 ---
 
