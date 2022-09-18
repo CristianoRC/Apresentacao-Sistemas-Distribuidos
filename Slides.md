@@ -125,13 +125,22 @@ Escala de de Sistema
 
 ---
 
-### API Gatway / Management
+### API Gatway
 
 ![-](./Images/apiGatway.png){width=53%}
 
 ---
 
-### API Gatway vs. Management
+#### API Gatway vs. Management
+
+
+![-](./Images/apiManagement.png){width=63%}
+
+---
+
+### Service Mesh
+
+![-](./Images/servicemesh.png)
 
 ---
 
