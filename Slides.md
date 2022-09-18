@@ -144,6 +144,12 @@ Escala de de Sistema
 
 ---
 
+### Service Discovery
+
+![-](./Images/serviceDiscovery.png){width=90%}
+
+---
+
 ### Microsserviços
 
 ---
