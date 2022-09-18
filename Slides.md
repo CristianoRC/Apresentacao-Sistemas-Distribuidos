@@ -89,9 +89,18 @@ Escala de de Sistema
 
 ![-](./Images/monolito-3.png){width=70%}
 
+
+---
+
+#### Caso de um Moniolito - Como Escalar
+
+![-](./Images/monolito-4.png){width=50%}
+
 ---
 
 ### Load Balancer
+
+![-](./Images/loadBalancer.png){width=40%}
 
 ---
 
