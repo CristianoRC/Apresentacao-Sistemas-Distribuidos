@@ -21,7 +21,6 @@ enableChalkboard: false
 
 ---
 
-
 A distributed system is a collection of independent computers that appears to users as a single computer. - ANDREW S. TANENBAUM
 
 ---
@@ -37,17 +36,15 @@ A distributed system is a collection of independent computers that appears to us
 
 ---
 
-### Conceitos Basicos - Cluster
+### Quando usar?
 
----
-
-### WEB?
+Escala de Time(menos comum)
 
 ---
 
 ### Quando usar?
 
-ESCALA
+Escala de de Sistema
 
 ---
 
@@ -55,10 +52,42 @@ ESCALA
 
 ---
 
-### Caso de um moniolito
+### Todo o sistema pode ser Distribuído?
+
+---
+
+### Caso de um Moniolito
+
+---
+
+### Caso de um Moniolito
 
 - Compartilha memória ou disco
-- Session/Files(local
+
+---
+
+### Caso de um Moniolito
+
+- Compartilha memória ou disco
+- Session/Files(local)
+
+---
+
+#### Caso de um Moniolito - Como Escalar
+
+![-](./Images/monolito.png){width=50%}
+
+---
+
+#### Caso de um Moniolito - Como Escalar
+
+![-](./Images/monolito-2.png){width=70%}
+
+---
+
+#### Caso de um Moniolito - Como Escalar
+
+![-](./Images/monolito-3.png){width=70%}
 
 ---
 
@@ -66,13 +95,29 @@ ESCALA
 
 ---
 
-### Muito mais que Micro Serviços
+#### Caso de um Moniolito - Escalam?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BiA_TfW76mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Caso de um Moniolito - StackOverFlow
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7LEWQZim5O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Tirando Monolitos Só existem Microsserviços
+
+---
+
+### Muito mais que Microsserviços
 
 (Falar de exemplos que o pessoal já sabe)
 
 ---
 
-### Micro Serviços
+### Microsserviços
 
 ---
 
@@ -85,6 +130,12 @@ ESCALA
 ---
 
 ### Event-Driven
+
+---
+
+### Distributed tracing
+
+![-](https://miro.medium.com/max/1191/1*O4Kb0ToSpFXLxEF4xKPWXA.png)
 
 ---
 
