@@ -199,7 +199,7 @@ Escala de de Sistema
 
 ### Event-Driven
 
-![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-VS-Choreography.png)
+![-](https://miro.medium.com/max/1400/1*whx8kk4B_WzF3Wz6ifc24g.png)
 
 ---
 
