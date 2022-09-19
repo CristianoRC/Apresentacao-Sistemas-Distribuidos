@@ -19,7 +19,6 @@ enableChalkboard: false
 - Dar uma introdução sobre Microsserviços
 - Conceitos relacionados que sempre aparecem por aí
 - Tirar as dúvias
-- NÃO SER PRODUNDO NOS TEMAS
 
 ---
 
