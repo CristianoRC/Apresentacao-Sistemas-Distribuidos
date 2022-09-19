@@ -187,13 +187,13 @@ Escala de de Sistema
 
 ### Orquestração
 
-![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-600x600.png){ width=90% }
+![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-600x600.png){ width=60% }
 
 ---
 
 ### Coreografia
 
-![-](https://cdn.solace.com/wp-content/uploads/2019/11/Choreography-600x600.png){ width=90% }
+![-](https://cdn.solace.com/wp-content/uploads/2019/11/Choreography-600x600.png){ width=60% }
 
 ---
 
