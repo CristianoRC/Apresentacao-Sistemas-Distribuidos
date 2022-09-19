@@ -163,6 +163,27 @@ Escala de de Sistema
 
 ---
 
+#### Microsserviços
+
+![-](https://wac-cdn.atlassian.com/dam/jcr:d76e535a-b5ad-473a-b697-26dab8b73c18/microservice_architecture_v2.png?cdnVersion=531){ width=65% }
+
+---
+
+### Microsserviços - Princípios
+
+1. Alta Coesão
+1. Autônomos
+1. Resiliência
+1. Observável
+1. Centrado no domínio do negócio
+1. Automatização
+
+---
+
+### Microsserviços - Comunicação
+
+---
+
 ### Orquestração
 
 ---
