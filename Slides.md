@@ -142,7 +142,6 @@ Escala de de Sistema
 
 #### API Gatway vs. Management
 
-
 ![-](./Images/apiManagement.png){width=63%}
 
 ---
@@ -182,17 +181,25 @@ Escala de de Sistema
 
 ### Microsserviços - Comunicação
 
+![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-VS-Choreography.png)
+
 ---
 
 ### Orquestração
+
+![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-600x600.png){ width=90% }
 
 ---
 
 ### Coreografia
 
+![-](https://cdn.solace.com/wp-content/uploads/2019/11/Choreography-600x600.png){ width=90% }
+
 ---
 
 ### Event-Driven
+
+![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-VS-Choreography.png)
 
 ---
 
