@@ -76,6 +76,8 @@ A distributed system is a collection of independent computers that appears to us
 
 ### Tipos de escala
 
+![-](https://www.monolitonimbus.com.br/wp-content/uploads/2015/01/revisao_telecurso.jpg)
+
 ---
 
 ### Vertical vs. Horizontal
@@ -84,7 +86,13 @@ A distributed system is a collection of independent computers that appears to us
 
 ---
 
-### Todo o sistema pode ser Distribuído?
+### Vertical vs. Horizontal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODcQC0_RyH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Todo o sistema pode ser Distribuído e/ou Escala Horizontamnete?
 
 ---
 
