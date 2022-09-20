@@ -47,17 +47,40 @@ A distributed system is a collection of independent computers that appears to us
 
 ### Quando usar?
 
-Escala de Time(menos comum)
+- Escala de Time(menos comum)
 
 ---
 
 ### Quando usar?
 
-Escala de de Sistema
+- Escala de Time(menos comum)
+- Escala de de Sistema
+
+---
+
+### Como saber se preciso escalar?
+
+---
+
+### Observar o seu ambiente
+
+![-](https://fs.buttercms.com/resize=width:940/dWlDdauFRuGwMbWlAXWT)
+
+---
+
+### Load Test
+
+![-](https://cloudnesil.com/wp-content/uploads/2019/04/artillery-logo.png)
+
+---
+
+### Tipos de escala
 
 ---
 
 ### Vertical vs. Horizontal
+
+![-](https://www.section.io/assets/images/blog/featured-images/horizontal-vs-vertical-scaling-diagram.png)
 
 ---
 
