@@ -47,13 +47,6 @@ A distributed system is a collection of independent computers that appears to us
 
 ### Quando usar?
 
-- Escala de Time(menos comum)
-
----
-
-### Quando usar?
-
-- Escala de Time(menos comum)
 - Escala de de Sistema
 
 ---
@@ -229,7 +222,6 @@ A distributed system is a collection of independent computers that appears to us
 ![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-600x600.png){ width=60% }
 
 ---
-
 
 ### Sagas
 
