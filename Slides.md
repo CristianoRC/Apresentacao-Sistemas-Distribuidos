@@ -218,7 +218,7 @@ A distributed system is a collection of independent computers that appears to us
 
 ---
 
-### Microsserviços - Comunicação
+### Microsserviços - Organização
 
 ![-](https://cdn.solace.com/wp-content/uploads/2019/11/Orchestration-VS-Choreography.png)
 
