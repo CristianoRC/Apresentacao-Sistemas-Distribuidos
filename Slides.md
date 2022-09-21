@@ -230,6 +230,13 @@ A distributed system is a collection of independent computers that appears to us
 
 ---
 
+
+### Sagas
+
+![-](https://preview.redd.it/4512hjtep3951.png?width=1025&format=png&auto=webp&s=2fb087195af2738aea37ebd8f1984788525e151e)
+
+---
+
 ### Coreografia
 
 ![-](https://cdn.solace.com/wp-content/uploads/2019/11/Choreography-600x600.png){ width=60% }
